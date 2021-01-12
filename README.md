@@ -1,7 +1,7 @@
 # petitions
 * 국민청원 링크 입력시 자동으로 댓글을 읽어주는 프로그램 입니다.
 * CORS 정책 때문에 /api/agreement_list/(게시물 번호)에서 POST요청이 불가능합니다. 이로인해 사전 검토가 끝난 청원 게시물의 댓글 탐지 속도가 "매우" 느리다는 점 양해바랍니다.
-* 실행이 안 될시 exe가 포함된 폴더에 자신의 크롬 브라우저 버전을 확인한 후, chromedriver.exe 파일을 다운받아 설치하시기 바랍니다. chromedriver.exe 파일 다운로드는 https://chromedriver.chromium.org/downloads에서 가능합니다.
+* 실행이 안 될시 exe가 포함된 폴더에 자신의 크롬 브라우저 버전을 확인한 후, chromedriver.exe 파일을 다운받아 설치하시기 바랍니다. chromedriver.exe 파일 다운로드는 https://chromedriver.chromium.org/downloads 에서 가능합니다.
 
 -- update
 * 관리자가 검토중인 청원 이외에 검토 허가된 청원의 댓글도 읽을 수 있게 하였습니다.
